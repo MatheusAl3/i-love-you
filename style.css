@@ -159,7 +159,7 @@ body {
     100% { opacity: 0; transform: scale(1) translateY(-100px); }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 300px) {
     body {
         background-size: 100% 100%;
         background-position: center top;
