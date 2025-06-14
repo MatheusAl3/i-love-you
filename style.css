@@ -5,8 +5,10 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-image: url(/assets/38030.jpg);
+    background-image: url('https://raw.githubusercontent.com/MatheusAl3/i-love-you/main/assets/38030.jpg');
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Arial, sans-serif;
     text-align: center;
